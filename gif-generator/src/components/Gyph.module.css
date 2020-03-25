@@ -1,0 +1,12 @@
+.Gyph{
+    flex: 1 1 30%; /*grow | shrink | basis */
+    margin: 1rem;
+    border: 0.4rem solid #ccc;
+    height: 300px;
+}
+
+img{
+    border: none;
+    width: 100%;
+    height: 100%;
+}
